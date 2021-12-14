@@ -2203,7 +2203,7 @@ entfernt',
     ),
     'Custom Actions: Photo Proof Sheet' => 
     array (
-      'Create photo proof sheet' => 'Bildnachweis ersteleln',
+      'Create photo proof sheet' => 'Bildnachweis erstellen',
       'Photo proof sheet successfully created in your home folder.' => 'Der Bildnachweis wurde erfolgreich in Ihrem Benutzerverzeichnis erstellt.',
     ),
     'Admin: Guest Users' => 
